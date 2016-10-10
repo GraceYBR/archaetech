@@ -1,0 +1,22 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+struct t255;
+
+#include "t528.h"
+#include "t405.h"
+
+struct  t556  : public t528
+{
+	t405  f9;
+	t255* f10;
+};
