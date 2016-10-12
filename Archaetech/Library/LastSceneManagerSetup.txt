@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Crab and Turtle.unity
+- path: Assets/Scenes/OceanRoom.unity
   isLoaded: 1
   isActive: 1
