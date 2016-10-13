@@ -1,1 +1,0 @@
-Assets/Models/blue_penguin/blue_penguin/Blue_Penguin.obj
