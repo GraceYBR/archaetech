@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a10d17c5a2fdd436bb624f45d49a3a00
+timeCreated: 1476399113
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group16552
+    100002: Group32714
+    100004: Group32714_MeshPart0
+    100006: Group32714_MeshPart1
+    100008: Group32714_MeshPart10
+    100010: Group32714_MeshPart11
+    100012: Group32714_MeshPart12
+    100014: Group32714_MeshPart13
+    100016: Group32714_MeshPart14
+    100018: Group32714_MeshPart15
+    100020: Group32714_MeshPart16
+    100022: Group32714_MeshPart17
+    100024: Group32714_MeshPart18
+    100026: Group32714_MeshPart19
+    100028: Group32714_MeshPart2
+    100030: Group32714_MeshPart20
+    100032: Group32714_MeshPart21
+    100034: Group32714_MeshPart22
+    100036: Group32714_MeshPart23
+    100038: Group32714_MeshPart3
+    100040: Group32714_MeshPart4
+    100042: Group32714_MeshPart5
+    100044: Group32714_MeshPart6
+    100046: Group32714_MeshPart7
+    100048: Group32714_MeshPart8
+    100050: Group32714_MeshPart9
+    100052: //RootNode
+    400000: Group16552
+    400002: Group32714
+    400004: Group32714_MeshPart0
+    400006: Group32714_MeshPart1
+    400008: Group32714_MeshPart10
+    400010: Group32714_MeshPart11
+    400012: Group32714_MeshPart12
+    400014: Group32714_MeshPart13
+    400016: Group32714_MeshPart14
+    400018: Group32714_MeshPart15
+    400020: Group32714_MeshPart16
+    400022: Group32714_MeshPart17
+    400024: Group32714_MeshPart18
+    400026: Group32714_MeshPart19
+    400028: Group32714_MeshPart2
+    400030: Group32714_MeshPart20
+    400032: Group32714_MeshPart21
+    400034: Group32714_MeshPart22
+    400036: Group32714_MeshPart23
+    400038: Group32714_MeshPart3
+    400040: Group32714_MeshPart4
+    400042: Group32714_MeshPart5
+    400044: Group32714_MeshPart6
+    400046: Group32714_MeshPart7
+    400048: Group32714_MeshPart8
+    400050: Group32714_MeshPart9
+    400052: //RootNode
+    2300000: Group16552
+    2300002: Group32714_MeshPart0
+    2300004: Group32714_MeshPart1
+    2300006: Group32714_MeshPart10
+    2300008: Group32714_MeshPart11
+    2300010: Group32714_MeshPart12
+    2300012: Group32714_MeshPart13
+    2300014: Group32714_MeshPart14
+    2300016: Group32714_MeshPart15
+    2300018: Group32714_MeshPart16
+    2300020: Group32714_MeshPart17
+    2300022: Group32714_MeshPart18
+    2300024: Group32714_MeshPart19
+    2300026: Group32714_MeshPart2
+    2300028: Group32714_MeshPart20
+    2300030: Group32714_MeshPart21
+    2300032: Group32714_MeshPart22
+    2300034: Group32714_MeshPart23
+    2300036: Group32714_MeshPart3
+    2300038: Group32714_MeshPart4
+    2300040: Group32714_MeshPart5
+    2300042: Group32714_MeshPart6
+    2300044: Group32714_MeshPart7
+    2300046: Group32714_MeshPart8
+    2300048: Group32714_MeshPart9
+    3300000: Group16552
+    3300002: Group32714_MeshPart0
+    3300004: Group32714_MeshPart1
+    3300006: Group32714_MeshPart10
+    3300008: Group32714_MeshPart11
+    3300010: Group32714_MeshPart12
+    3300012: Group32714_MeshPart13
+    3300014: Group32714_MeshPart14
+    3300016: Group32714_MeshPart15
+    3300018: Group32714_MeshPart16
+    3300020: Group32714_MeshPart17
+    3300022: Group32714_MeshPart18
+    3300024: Group32714_MeshPart19
+    3300026: Group32714_MeshPart2
+    3300028: Group32714_MeshPart20
+    3300030: Group32714_MeshPart21
+    3300032: Group32714_MeshPart22
+    3300034: Group32714_MeshPart23
+    3300036: Group32714_MeshPart3
+    3300038: Group32714_MeshPart4
+    3300040: Group32714_MeshPart5
+    3300042: Group32714_MeshPart6
+    3300044: Group32714_MeshPart7
+    3300046: Group32714_MeshPart8
+    3300048: Group32714_MeshPart9
+    4300000: Group16552_MeshPart0
+    4300002: Group32714_MeshPart0
+    4300004: Group32714_MeshPart1
+    4300006: Group32714_MeshPart2
+    4300008: Group32714_MeshPart3
+    4300010: Group32714_MeshPart4
+    4300012: Group32714_MeshPart5
+    4300014: Group32714_MeshPart6
+    4300016: Group32714_MeshPart7
+    4300018: Group32714_MeshPart8
+    4300020: Group32714_MeshPart9
+    4300022: Group32714_MeshPart10
+    4300024: Group32714_MeshPart11
+    4300026: Group32714_MeshPart12
+    4300028: Group32714_MeshPart13
+    4300030: Group32714_MeshPart14
+    4300032: Group32714_MeshPart15
+    4300034: Group32714_MeshPart16
+    4300036: Group32714_MeshPart17
+    4300038: Group32714_MeshPart18
+    4300040: Group32714_MeshPart19
+    4300042: Group32714_MeshPart20
+    4300044: Group32714_MeshPart21
+    4300046: Group32714_MeshPart22
+    4300048: Group32714_MeshPart23
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
