@@ -48,6 +48,7 @@
      <Compile Include="Assets\OnTap.cs" />
      <Compile Include="Assets\RayCastTest.cs" />
      <Compile Include="Assets\Scripts\OnClick.cs" />
+     <Compile Include="Assets\Scripts\displayUI.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
